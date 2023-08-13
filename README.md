@@ -1,8 +1,7 @@
-# TradeRep App
+# TradeX App
 
-A decentrilized application that helps investors and beginners save money and time by filtering good traders from scammers with a reputation verified by blockchain
+A decentralized application that helps investors and beginners save money and time by filtering good traders from scammers with a reputation verified by blockchain
 
-🔗 Link - https://traderep.space
 
 ## How it works
 
@@ -10,11 +9,6 @@ A decentrilized application that helps investors and beginners save money and ti
 
 ![How it works 2](docs/images/how-it-works-2.png)
 
-## Project repositories
-
-- App - https://github.com/traderep-space/app
-- Contracts - https://github.com/traderep-space/contracts
-- Subgraph - https://github.com/traderep-space/subgraph
 
 ## Stack
 
