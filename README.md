@@ -2,14 +2,6 @@
 
 A decentralized application that helps investors and beginners save money and time by filtering good traders from scammers with a reputation verified by blockchain
 
-
-## How it works
-
-![How it works 1](docs/images/how-it-works-1.png)
-
-![How it works 2](docs/images/how-it-works-2.png)
-
-
 ## Stack
 
 - IPFS (Web3.Storage)
