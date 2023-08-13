@@ -1,0 +1,52 @@
+{
+  "name": "traderep-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/lab": "^5.0.0-alpha.92",
+    "@mui/material": "^5.9.2",
+    "@mui/system": "^5.9.3",
+    "@rjsf/core": "^4.2.2",
+    "@rjsf/material-ui": "^4.2.2",
+    "@walletconnect/web3-provider": "^1.8.0",
+    "@zoralabs/v3": "^1.0.10",
+    "axios": "^0.27.2",
+    "ethers": "^5.6.9",
+    "ipfs-http-client": "^57.0.3",
+    "lit-js-sdk": "^1.1.207",
+    "lodash": "^4.17.21",
+    "next": "12.2.3",
+    "next-i18next": "^12.0.1",
+    "next-transpile-modules": "^9.0.0",
+    "nextjs-progressbar": "^0.0.14",
+    "notistack": "^2.0.5",
+    "posthog-js": "^1.29.3",
+    "qs": "^6.11.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "web3.storage": "^4.3.0",
+    "web3modal": "^1.9.8"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.182",
+    "@types/node": "18.6.2",
+    "@types/qs": "^6.9.7",
+    "@types/react": "18.0.15",
+    "@types/react-dom": "18.0.6",
+    "eslint": "8.20.0",
+    "eslint-config-next": "12.2.3",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "2.7.1",
+    "typescript": "4.7.4"
+  }
+}
